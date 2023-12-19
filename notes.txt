@@ -1,0 +1,7 @@
+(base) ➜  host-away-api git:(main) pwd   
+/Users/taylorcurran/Documents/grant/host-away-api
+(base) ➜  host-away-api git:(main) ✗ conda activate host
+(host) ➜  host-away-api git:(main) ✗ 
+
+
+https://chat.openai.com/c/f6dc6b3d-2e06-4f6f-a4e2-7997385d41cf
